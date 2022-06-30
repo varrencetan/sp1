@@ -5,6 +5,7 @@ git clone https://github.com/sdcilsy/landing-page
 git clone https://github.com/sdcilsy/sosial-media
 wget -c http://wordpress.org/latest.tar.gz
 sudo tar -xzvf latest.tar.gz
+sudo apt update
 sudo apt install -y apache2 php php-mysql mysql-client mysql-server apache2-utils php libapache2-mod-php php-mysql php-curl php-gd php-mbstring php-xml php-xmlrpc php-soap php-intl php-zip
 
 
